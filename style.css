@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #6284FF 50%;
+    background-image: linear-gradient(180deg, #e06464 0%, #6284FF 50%, #FFFFFF 100%);
+
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: #FFFFFF;
+    background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #e06464 100%);
+    }
+img{
+    width: 100px;
+     height: 100px;
+    }
